@@ -3,6 +3,8 @@ body {
   color: #252422;
   background-color: #FFFCF2;
   margin: 0px;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 
 .width-limitter {
